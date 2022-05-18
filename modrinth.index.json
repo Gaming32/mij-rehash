@@ -1,0 +1,208 @@
+{
+  "formatVersion": 1,
+  "game": "minecraft",
+  "versionId": "0.1.0",
+  "name": "THE MODPACK",
+  "files": [
+    {
+      "path": "mods/agape_space_18_2-0.5.10.jar",
+      "hashes": {
+        "sha1": "f5fb6a563f79efa329b3ea7a7aebbcddb50230c4"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3782/216/agape_space_18_2-0.5.10.jar"
+      ]
+    },
+    {
+      "path": "mods/Amplified_Nether_v1.1.1.jar",
+      "hashes": {
+        "sha1": "1263318bd15e90d0f3a570d1ddb893edaa2eb49b"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3683/373/Amplified_Nether_v1.1.1.jar"
+      ]
+    },
+    {
+      "path": "mods/architectury-4.4.60.jar",
+      "hashes": {
+        "sha1": "6a1e4082cf06ef92ce5fdbac2235124c50a4951c"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3786/590/architectury-4.4.60.jar"
+      ]
+    },
+    {
+      "path": "mods/badpackets-fabric-0.1.2.jar",
+      "hashes": {
+        "sha1": "098653c88addec413623a78c20e2f001e5647079"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ftdbN0KK/versions/fabric-0.1.2/badpackets-fabric-0.1.2.jar",
+        "https://github.com/badasintended/badpackets/releases/download/0.1.2/badpackets-fabric-0.1.2.jar"
+      ]
+    },
+    {
+      "path": "mods/cloth-config-6.2.57-fabric.jar",
+      "hashes": {
+        "sha1": "c52ef239d9d3d3473312d3f57bd8e730155ee5a5"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.57+fabric/cloth-config-6.2.57-fabric.jar"
+      ]
+    },
+    {
+      "path": "mods/fabric-api-0.51.1+1.18.2.jar",
+      "hashes": {
+        "sha1": "fe3c0fcd92a46632a69e5d17cc0f2b7a37c877f4"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.51.1+1.18.2/fabric-api-0.51.1%2B1.18.2.jar",
+        "https://github.com/FabricMC/fabric/releases/download/0.51.1%2B1.18.2/fabric-api-0.51.1+1.18.2.jar"
+      ]
+    },
+    {
+      "path": "mods/immersive-portals-1.3.6-mc1.18.2-fabric.jar",
+      "hashes": {
+        "sha1": "88b5e7e9765372f42a949f4a4906e6b1a89e7653"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/zJpHMkdD/versions/1.3.6-1.18.2/immersive-portals-1.3.6-mc1.18.2-fabric.jar",
+        "https://github.com/qouteall/ImmersivePortalsMod/releases/download/v1.3.6-1.18/immersive-portals-1.3.6-mc1.18.2-fabric.jar"
+      ]
+    },
+    {
+      "path": "mods/lithium-fabric-mc1.18.2-0.7.9.jar",
+      "hashes": {
+        "sha1": "2f0298476ba54e8fc640c9bfe132a193db45b92b"
+      },
+      "env": {
+        "client": "optional",
+        "server": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.2-0.7.9/lithium-fabric-mc1.18.2-0.7.9.jar",
+        "https://github.com/CaffeineMC/lithium-fabric/releases/download/mc1.18.2-0.7.9/lithium-fabric-mc1.18.2-0.7.9.jar"
+      ]
+    },
+    {
+      "path": "mods/lunas-mod-0.1.2.jar",
+      "hashes": {
+        "sha1": "b4935c6b8da37ceb2f1d0d15e7aa29514fae075d"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/7fuY5ymu/versions/0.1.2/lunas-mod-0.1.2.jar"
+      ]
+    },
+    {
+      "path": "mods/modmenu-3.2.1.jar",
+      "hashes": {
+        "sha1": "2366c41842dd070cb400aba8cb7d3241d175a71e"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/mOgUt4GM/versions/3.2.1/modmenu-3.2.1.jar",
+        "https://github.com/TerraformersMC/ModMenu/releases/download/v3.2.1/modmenu-3.2.1.jar"
+      ]
+    },
+    {
+      "path": "mods/Pehkui-3.3.0+1.14.4-1.19.jar",
+      "hashes": {
+        "sha1": "89dc555136ef54c9195ae2af1c200c91c842ed1e"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/t5W7Jfwy/versions/3.3.0+1.14.4-1.19/Pehkui-3.3.0%2B1.14.4-1.19.jar",
+        "https://github.com/Virtuoel/Pehkui/releases/download/3.3.0/Pehkui-3.3.0+1.14.4-1.19.jar"
+      ]
+    },
+    {
+      "path": "mods/phosphor-fabric-mc1.18.x-0.8.1.jar",
+      "hashes": {
+        "sha1": "9b826d21b9cd999853a57c76b0c47ee4d9161dc9"
+      },
+      "env": {
+        "client": "optional",
+        "server": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.18.x-0.8.1/phosphor-fabric-mc1.18.x-0.8.1.jar",
+        "https://github.com/CaffeineMC/phosphor-fabric/releases/download/mc1.18.x-0.8.1/phosphor-fabric-mc1.18.x-0.8.1.jar"
+      ]
+    },
+    {
+      "path": "mods/sodium-fabric-mc1.18.2-0.4.1+build.15.jar",
+      "hashes": {
+        "sha1": "f839863a6be7014b8d80058ea1f361521148d049"
+      },
+      "env": {
+        "client": "optional",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar",
+        "https://github.com/CaffeineMC/sodium-fabric/releases/download/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1+build.15.jar"
+      ]
+    },
+    {
+      "path": "mods/Terralith_v2.2.1a.jar",
+      "hashes": {
+        "sha1": "6fc7c336beb04b72adae9323e7e7814ed3a02c09"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3696/607/Terralith_v2.2.1a.jar"
+      ]
+    },
+    {
+      "path": "mods/wthit-fabric-4.10.1.jar",
+      "hashes": {
+        "sha1": "73e1fc50286a55c05cee837a8b93ef28a05fd04f"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/6AQIaxuO/versions/fabric-4.10.1/wthit-fabric-4.10.1.jar",
+        "https://github.com/badasintended/wthit/releases/download/4.10.1/wthit-fabric-4.10.1.jar"
+      ]
+    },
+    {
+      "path": "mods/XaerosWorldMap_1.21.2_Fabric_1.18.2.jar",
+      "hashes": {
+        "sha1": "3965c8017baf63de53e7ab4cc34d22c5d3b7d0b5"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3782/705/XaerosWorldMap_1.21.2_Fabric_1.18.2.jar"
+      ]
+    },
+    {
+      "path": "mods/Xaeros_Minimap_22.7.0_Fabric_1.18.2.jar",
+      "hashes": {
+        "sha1": "8da460edf35c55bb77bc9f240c1d431a8de52cd9"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3778/435/Xaeros_Minimap_22.7.0_Fabric_1.18.2.jar"
+      ]
+    },
+    {
+      "path": "mods/YungsApi-1.18.2-Fabric-2.0.8.jar",
+      "hashes": {
+        "sha1": "4e96599a16b1eba26e2e712d5f282780dca58876"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3779/89/YungsApi-1.18.2-Fabric-2.0.8.jar"
+      ]
+    },
+    {
+      "path": "mods/YungsBetterStrongholds-1.18.2-Fabric-2.1.1.jar",
+      "hashes": {
+        "sha1": "a52d3632a5e9a21d66ac6f8b8129b5e4f761a02d"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3778/232/YungsBetterStrongholds-1.18.2-Fabric-2.1.1.jar"
+      ]
+    }
+  ],
+  "dependencies": {
+    "minecraft": "1.18.2",
+    "fabric-loader": "0.13.3"
+  }
+}
